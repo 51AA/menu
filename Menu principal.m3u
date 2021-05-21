@@ -1,1 +1,5 @@
-
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="", PELICULAS AreA51
+https://raw.githubusercontent.com/lau64839/menus/main/menus.m3u
+#EXTINF:-1 tvg-logo="", SERIES AreA51
+https://raw.githubusercontent.com/lau64839/menus/main/menus%20series.m3u
