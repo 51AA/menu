@@ -1,1 +1,17 @@
-
+# EXTM3U
+#EXTINF: -1 tvg-logo = "", Conciertos Cumbias
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Cumbia.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos Electronica
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Electronica.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos Heavy Metal
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/HeavyMetal.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos PoP
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Pop.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos Reggae
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Reggae.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos Reggaeton
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Reggaeton.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos Rock Nacional e Internacional
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/RockNacional%20e%20Internacional.m3u
+#EXTINF: -1 tvg-logo = "", Conciertos Románticos
+https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Romanticos.m3u
