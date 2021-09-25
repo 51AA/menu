@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/51AA/conciertos/main/Cumbia.m3u
 #EXTINF: -1 tvg-logo = "", Conciertos Electronica
 https://raw.githubusercontent.com/51AA/conciertos/main/Electronica.m3u
 #EXTINF: -1 tvg-logo = "", Conciertos Heavy Metal
-https://raw.githubusercontent.com/laureanoflix/Conciertos/main/HeavyMetal.m3u
+https://raw.githubusercontent.com/51AA/conciertos/main/Heavy%20Metal.m3u
 #EXTINF: -1 tvg-logo = "", Conciertos PoP
 https://raw.githubusercontent.com/laureanoflix/Conciertos/main/Pop.m3u
 #EXTINF: -1 tvg-logo = "", Conciertos Reggae
