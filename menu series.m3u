@@ -1,10 +1,10 @@
 # EXTM3U
-#EXTINF: -1 group-title = "Serie", .http: // ..
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/vQ6rSC8/Whats-App-Image-2021-07-25-at-2-18-20-AM-2.png", Documentales
+#EXTINF:-1 group-title="Serie", 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ6rSC8/Whats-App-Image-2021-07-25-at-2-18-20-AM-2.png", Documentales
 https://raw.githubusercontent.com/51AA/menu-series/main/Documentales.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/kXGRfYR/Las-60-Telenovelas-que-fueron-un-e-xito-y-que-dejaron-huella.png", Tele Novelas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXGRfYR/Las-60-Telenovelas-que-fueron-un-e-xito-y-que-dejaron-huella.png", Tele Novelas
 https://raw.githubusercontent.com/51AA/menu-series/main/Tele%20novelas.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/T1W2nZY/Whats-App-Image-2021-07-25-at-2-18-20-AM.png", Caricaturas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1W2nZY/Whats-App-Image-2021-07-25-at-2-18-20-AM.png", Caricaturas
 https://raw.githubusercontent.com/51AA/menu-series/main/Caricaturas.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/VqnwfYR/Whats-App-Image-2021-07-25-at-2-18-19-AM-2.png", Serie televisor
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqnwfYR/Whats-App-Image-2021-07-25-at-2-18-19-AM-2.png", Serie televisor
 https://raw.githubusercontent.com/51AA/menu-series/main/Series%20tv.m3u
