@@ -1,30 +1,29 @@
-# EXTM3U
-#EXTINF: -1 group-title = "Peliculas", .http: // .. 
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/jDNLTp1/ikmnjki.png", ACCION
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDNLTp1/ikmnjki.png", ACCION
 https://raw.githubusercontent.com/51AA/peliculas/main/Accion.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/TW8mWYL/ndice-1.png", AVENTURA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TW8mWYL/ndice-1.png", AVENTURA
 https://raw.githubusercontent.com/51AA/peliculas/main/Aventura.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/0QnTF1X/Whats-App-Image-2021-07-25-at-2-18-23-AM.png", BELICAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0QnTF1X/Whats-App-Image-2021-07-25-at-2-18-23-AM.png", BELICAS
 https://raw.githubusercontent.com/51AA/peliculas/main/Belicas.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/6Wkd4D2/Whats-App-Image-2021-07-25-at-2-18-19-AM-1.png", CIENCIA FICCION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Wkd4D2/Whats-App-Image-2021-07-25-at-2-18-19-AM-1.png", CIENCIA FICCION
 https://raw.githubusercontent.com/51AA/peliculas/main/Ciencia%20Ficcion.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/fd1bn4R/Whats-App-Image-2021-07-25-at-2-18-23-AM-1.png", COMEDIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fd1bn4R/Whats-App-Image-2021-07-25-at-2-18-23-AM-1.png", COMEDIAS
 https://raw.githubusercontent.com/51AA/peliculas/main/Comedia.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/r7Q8TDh/Whats-App-Image-2021-07-25-at-2-18-19-AM-5.png", CRIMEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Q8TDh/Whats-App-Image-2021-07-25-at-2-18-19-AM-5.png", CRIMEN
 https://raw.githubusercontent.com/51AA/peliculas/main/Crimen.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/ZgHC9Dc/Whats-App-Image-2021-07-25-at-2-18-24-AM-2.png", DRAMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgHC9Dc/Whats-App-Image-2021-07-25-at-2-18-24-AM-2.png", DRAMA
 https://raw.githubusercontent.com/51AA/peliculas/main/Drama.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/gzQv2nK/Whats-App-Image-2021-07-25-at-2-18-19-AM.png", FANTASIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzQv2nK/Whats-App-Image-2021-07-25-at-2-18-19-AM.png", FANTASIA
 https://raw.githubusercontent.com/51AA/peliculas/main/Fantasia.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/yQMzWSh/Whats-App-Image-2021-07-25-at-2-18-19-AM-3.png", INFANTILES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQMzWSh/Whats-App-Image-2021-07-25-at-2-18-19-AM-3.png", INFANTILES
 https://raw.githubusercontent.com/51AA/peliculas/main/Infantiles.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/W0MshN0/ki.png", ROMANTICAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W0MshN0/ki.png", ROMANTICAS
 https://raw.githubusercontent.com/51AA/peliculas/main/Romanticas.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/PGs9K9k/marvel-vs-dc-1u-1920x1080-1.png", SUPER HÉROES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGs9K9k/marvel-vs-dc-1u-1920x1080-1.png", SUPER HÉROES
 https://raw.githubusercontent.com/51AA/peliculas/main/Super%20Heroes.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/nPrxHPf/Whats-App-Image-2021-07-25-at-2-18-18-AM.jpg", SUSPENSO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPrxHPf/Whats-App-Image-2021-07-25-at-2-18-18-AM.jpg", SUSPENSO
 https://raw.githubusercontent.com/51AA/peliculas/main/Suspenso.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/WgbgZs1/Whats-App-Image-2021-07-25-at-2-18-23-AM-2.png", TERROR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgbgZs1/Whats-App-Image-2021-07-25-at-2-18-23-AM-2.png", TERROR
 https://raw.githubusercontent.com/51AA/peliculas/main/Terror.m3u
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/rdGSBn8/Whats-App-Image-2021-07-25-at-2-18-24-AM.png", OCCIDENTAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdGSBn8/Whats-App-Image-2021-07-25-at-2-18-24-AM.png", OCCIDENTAL
 https://raw.githubusercontent.com/51AA/peliculas/main/Western.m3u
